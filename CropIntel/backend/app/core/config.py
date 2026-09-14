@@ -1,3 +1,0 @@
-
-APP_NAME = "CropIntel API"
-APP_VERSION = "1.0.0"
